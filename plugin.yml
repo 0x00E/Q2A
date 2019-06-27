@@ -1,0 +1,5 @@
+name: Q2A
+main: com.github.qianniancc.Q2A
+version: 0.0.1
+commands:
+  q2a:
